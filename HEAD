@@ -1,8 +1,1 @@
-0000000000000000000000000000000000000000 8337c4b212e24647aabef156b8443ea496df2cf9 agent <agent@replit.com> 1776477609 +0000	commit (initial): Initial commit
-8337c4b212e24647aabef156b8443ea496df2cf9 d1bbd959099a8c51de7cdb5a92f0eb4a6fd2d855 synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777170706 +0000	commit: Add all core API routes and integrate seeding functionality
-d1bbd959099a8c51de7cdb5a92f0eb4a6fd2d855 635a9984703b10985bbdffe2862184592a705869 synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777171229 +0000	commit: Saved progress at the end of the loop
-635a9984703b10985bbdffe2862184592a705869 31afaa82fed6213cce374dd2891c7689aa5c7aef synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777171915 +0000	commit: Integrate real-time business discovery using external search services
-31afaa82fed6213cce374dd2891c7689aa5c7aef 31afaa82fed6213cce374dd2891c7689aa5c7aef synaptireach <synaptireach@gmail.com> 1777174704 +0000	checkout: moving from main to main
-31afaa82fed6213cce374dd2891c7689aa5c7aef d28c90fb81624c16fc4e20879ae41bfacb29f98b synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777248756 +0000	commit: Update project to integrate live business discovery and improve ID generation
-d28c90fb81624c16fc4e20879ae41bfacb29f98b f80e9fc80cf20d56d9b7415b0a95c9ebfe06a4a9 synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777287076 +0000	commit: Add full project specification document for SynaptiReach
-f80e9fc80cf20d56d9b7415b0a95c9ebfe06a4a9 9e229e2db72c358eedde652eb575a98ecfb92829 synaptireach <58207137-synaptireach@users.noreply.replit.com> 1777288270 +0000	commit: Add multi-tenant features for user management and AI settings
+0000000000000000000000000000000000000000 31afaa82fed6213cce374dd2891c7689aa5c7aef synaptireach <synaptireach@gmail.com> 1777174681 +0000	remote set-head
